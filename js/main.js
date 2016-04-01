@@ -20,3 +20,4 @@ $('.circle').on('animationend', function (e) {
 
 $('.btn-append').on('click', function (e) {
   $('.list').append('<li>New List Item</li>');
+ });
