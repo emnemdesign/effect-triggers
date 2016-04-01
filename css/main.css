@@ -98,4 +98,5 @@ div {
   overflow: hidden;
 
   color: mediumpurple;
+  animation: expand 1s ease;
 }
